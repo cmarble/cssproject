@@ -9,10 +9,17 @@
     height: 45vh;
     width: 80%;
     background-color: #16594C;
-    font-family: 'Dancing Script', cursive;
 }
 
+.brown {
+    height: 45vh;
+    width: 80%;
+    background-color: #592816;
+}
 
-
-
-    
+.light_brown {
+    height: 45vh;
+    width: 80%;
+    background-color: #A55639;
+    font-family: Georgia, serif;
+}
