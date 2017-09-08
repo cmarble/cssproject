@@ -1,25 +1,37 @@
+body {
+	text-align: center;
+	margin: 0px;
+}
 .teal {
     height: 30vh;
     width: 30%;
     background-color: #08A587;
     font-family: 'Dancing Script', cursive;
+	display: inline-table;
+	float: left;
 }
 
 .dark_teal {
-    height: 45vh;
-    width: 80%;
+    height: 60vh;
+    width: 70%;
     background-color: #16594C;
+	display: inline;
+	float: right;
 }
 
 .brown {
-    height: 45vh;
-    width: 80%;
+    height: 30vh;
+    width: 30%;
     background-color: #592816;
+	display: inline;
+	float: right;
 }
 
 .light_brown {
-    height: 45vh;
-    width: 80%;
+    height: 10vh;
+    width: 100%;
     background-color: #A55639;
     font-family: Georgia, serif;
+	display: inline;
+	float: right;
 }
